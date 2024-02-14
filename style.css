@@ -75,7 +75,7 @@ nav {
 }
 
 .navigation {
-  background: #fff;
+  background: var(--white);
   display: flex;
   gap: 16px;
   padding: 0;
@@ -132,7 +132,7 @@ nav {
 
 .actions a:hover {
   background: var(--dark-blue);
-  color: #fff;
+  color: var(--white);
 }
 
 /* Media Queries */
